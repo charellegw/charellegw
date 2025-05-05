@@ -1,7 +1,7 @@
 # Hi, i'm Charelle! 👋
 
 ## About me
-• Computer Science Undergraduate at BINUS University
+• Computer Science Undergraduate Student at BINUS University
 • I'm currently learning Javascript
 • How to reach me: <a href = "youtube.com">LinkedIn</a>
 
