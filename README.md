@@ -1,5 +1,4 @@
 # Hi, I'm Charelle! 👋
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)
 
 ## About me
 - Computer Science Undergraduate Student at BINUS University
@@ -7,9 +6,22 @@
 - How to reach me: [Linkedin](https://www.linkedin.com/in/charelle-grace-winarto-055394298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Languages and Tools
+<div style="display: flex; justify-content: space-around; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" alt="Top Langs" />
+  
+  <a href="https://github.com/Jurredr/github-widgetbox&includeNames=true">
+    <img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,csharp,mysql" alt="Languages" />
+  </a>
+  
+  <a href="https://github.com/Jurredr/github-widgetbox&includeNames=true">
+    <img src="https://github-widgetbox.vercel.app/api/skills?frameworks=react,django,tailwind,express" alt="Frameworks" />
+  </a>
+</div>
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,python,html,css,c,cpp,csharp,swift,rust,ruby,kotlin,erlang,dart,go,scala,elm,bash,r,xml,json,yaml,postgresql,mysql,haskell,powershell,lua,visualbasic,x86,arm,groovy,perl,solidity,fortran,sass,graphql,clojure,clojurescript,markdown)](https://github.com/Jurredr/github-widgetbox)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,django,flutter,electron,bootstrap,gatsby,nest,tailwind,windi,express,svelte,angular,dotnetcore,laravel,ionic,dotnet)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,csharp,mysql)](https://github.com/Jurredr/github-widgetbox&includeNames=true)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,django,tailwind,express)](https://github.com/Jurredr/github-widgetbox&includeNames=true)
 
 <!--
 **charellegw/charellegw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
