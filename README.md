@@ -3,7 +3,7 @@
 ## About me
 - Computer Science Undergraduate Student at BINUS University
 - I'm currently learning Javascript
-- How to reach me: <a href = "youtube.com">LinkedIn</a>
+- How to reach me: [Linkedin](https://www.linkedin.com/in/charelle-grace-winarto-055394298?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## Languages and Tools
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
